@@ -12,3 +12,8 @@ This folder contains implementations of different sorting algorithms in Java.
   - Time Complexity: O(n^2)  
   - Space Complexity: O(1)  
   - Stable: Yes  
+
+- **Insertion Sort**  
+  - Time Complexity: O(n^2)  
+  - Space Complexity: O(1)  
+  - Stable: Yes  
