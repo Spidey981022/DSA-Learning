@@ -5,3 +5,7 @@ It demonstrates basic array traversal, comparison logic, and clean coding practi
 **2. Second largest Element Finder in Java**
 This repository contains a simple Java program that finds the **second largest element in an array**.  
 It demonstrates basic array traversal, comparison logic, and clean coding practices with comments.
+
+**3. Second smallest Element Finder in Java**
+This repository contains a simple Java program that finds the **second smallest element in an array**.  
+It demonstrates basic array traversal, comparison logic, and clean coding practices with comments.
