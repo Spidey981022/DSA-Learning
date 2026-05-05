@@ -18,3 +18,19 @@ public class Main {
         return Integer.parseInt(str.toString());
     }
 }
+
+//FOR JAVASCRIPT
+
+function reverseNumber(n) {
+    // Write your logic here
+    let str = "";
+        let rem = 0;
+        while(n){
+            rem = n%10;
+            str = str + rem;
+            n=Math.floor(n/10);
+        }
+        return parseInt(str);
+}
+
+module.exports = { reverseNumber };
