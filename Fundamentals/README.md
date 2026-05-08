@@ -2,3 +2,4 @@
 2. Reverse a number in java and Javascript. (5-5-2026)
 3. To check if the number is Armstrong number. (6-5-2026)
 4. To check if the number is Neon number. (6-5-2026)
+5. Star pattern program. (8-5-2026)
